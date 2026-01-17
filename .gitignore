@@ -3,6 +3,5 @@
 
 # 2. Ngoại trừ các folder này (dấu ! dùng để bỏ qua lệnh ignore)
 !/config/
-!/mods/
 !.gitignore
 !/tacz/
