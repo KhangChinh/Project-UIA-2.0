@@ -100,12 +100,12 @@
     },
     "verticalRecoil": {
       "addend": 0.0,
-      "multiplier": 1.0,
+      "multiplier": 1.5,
       "function": ""
     },
     "horizontalRecoil": {
       "addend": 0.0,
-      "multiplier": 1.0,
+      "multiplier": 1.2,
       "function": ""
     },
     "aimVerticalRecoil": {
