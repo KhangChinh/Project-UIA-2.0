@@ -217,9 +217,9 @@
 	#Caution : Max stamina and stamina recovery config is removed because they became attributes.
 	#Infinite Stamina (this needs a permission from server, even if it is on single player's game. normally permitted)
 	#Please check 'parcool-server.toml' in 'serverconfig' directory
-	infinite_stamina = false
+	infinite_stamina = true
 	#Infinite Stamina while player is creative mode
-	infinite_stamina_if_creative_mode = true
+	infinite_stamina_if_creative_mode = false
 	#Enable slowing down of stamina exhaustion
 	enable_stamina_exhaustion_penalty = true
 

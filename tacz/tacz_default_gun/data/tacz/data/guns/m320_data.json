@@ -34,11 +34,11 @@
       "empty": 3
     }
   },
-  "draw_time": 1.18,
-  "put_away_time": 1.17,
+  "draw_time": 1.38,
+  "put_away_time": 1.37,
   "aim_time": 0.1,
   "sprint_time": 0.15,
-  "weight": 3.6,
+  "weight": 5.6,
   "movement_speed": {
     "base": 0.0,
     "aim": -0.1,
