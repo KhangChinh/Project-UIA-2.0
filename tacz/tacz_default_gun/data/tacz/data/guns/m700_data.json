@@ -11,20 +11,20 @@
   "bullet": {
     "life": 1,
     "bullet_amount": 1,
-    "damage": 26,
+    "damage": 27,
     "tracer_count_interval": 0,
     "extra_damage": {
-      "armor_ignore": 0.5,
+      "armor_ignore": 0.75,
       "head_shot_multiplier": 1.65,
       "damage_adjust": [
-        {"distance": 48, "damage": 27},
-        {"distance": 96, "damage": 25},
-        {"distance": 190, "damage": 23},
-        {"distance": "infinite", "damage": 20}
+        {"distance": 32, "damage": 27},
+        {"distance": 64, "damage": 25},
+        {"distance": 96, "damage": 23},
+        {"distance": "infinite", "damage": 21}
       ]
     },
     "speed": 380,
-    "gravity": 0.10,
+    "gravity": 0.15,
     "knockback": 0,
     "friction": 0.015,
     "ignite": false,
@@ -61,20 +61,17 @@
   ],
  "recoil": {
     "pitch": [
-      {"time": 0, "value": [3.25, 3.25]},
-      {"time": 0.07, "value": [2.375, 2.375]},
-      {"time": 0.16, "value": [3, 3]},
-      {"time": 0.24, "value": [1.85, 1.85]},
-      {"time": 0.6, "value": [-0.5, -0.5]},
-      {"time": 0.71, "value": [0.25, 0.25]},
-      {"time": 0.83, "value": [0, 0]},
-      {"time": 0.88, "value": [0, 0]}
+      {"time": 0, "value": [3.2, 3.2]},
+      {"time": 0.32, "value": [2.2, 2.2]},
+      {"time": 0.57, "value": [-0.5, -0.5]},
+      {"time": 0.82, "value": [0.25, 0.25]},
+      {"time": 1.17, "value": [0, 0]},
+      {"time": 1.47, "value": [0, 0]}
     ],
     "yaw": [
-      {"time": 0, "value": [-0.5, -0.5]},
-      {"time": 0.17, "value": [0.1, 0.1]},
-      {"time": 0.3, "value": [0, 0]},
-      {"time": 0.8, "value": [0, 0]}
+      {"time": 0, "value": [-0.6, -0.5]},
+      {"time": 0.32, "value": [-0.6, -0.5]},
+      {"time": 0.57, "value": [0, 0]}
     ]
   },
   "inaccuracy": {
