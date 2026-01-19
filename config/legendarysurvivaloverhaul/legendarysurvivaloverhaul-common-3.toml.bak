@@ -472,7 +472,7 @@
 		# The Resilient Hearts is the number of heart below which Broken Hearts can no longer be added.
 		# By default, the player has 2 resilient heart, meaning no matter the amount of broken hearts, the player won't go below 2 hearts.
 		#Range: 1 ~ 10000
-		"Minimum Amount Of Player's Heart With Broken Hearts (Broken Heart Resilience)" = 4
+		"Minimum Amount Of Player's Heart With Broken Hearts (Broken Heart Resilience)" = 2
 		# Amount of Broken Hearts added per limbs fully injured.
 		#Range: 0.0 ~ 10000.0
 		"Added Broken Hearts Per Injured Limb" = 0.1
@@ -521,7 +521,7 @@
 			# The limbs will be healed when the player is at max health.
 			" Passive Limb Regeneration On Full Health" = true
 			# The limbs will be healed when the player is under one of the mentioned effect, the most damaged limb first.
-			"Passive Limb Regeneration On Effects" = ["minecraft:regeneration"]
+			"Passive Limb Regeneration On Effects" = ["minecraft:regeneration", "farmersdelight:comfort"]
 			# Whether the amplification of the effect increase the limb regeneration speed.
 			# The speed increase follows the same logic as the Regeneration Effect Amplification :
 			#    Amplifier 1 -> tick timer /2, Amplifier 2 -> tick timer /4, ...
@@ -584,7 +584,7 @@
 			# Whether the First Aid Supplies exhaust food when healing limbs, such as the other healing items.
 			"First Aid Supplies Exhausts Food" = true
 			# The First Aid Supplies will heal limbs faster when the player is under one of the mentioned effect.
-			"First Aid Supplies Boosted On Effects" = ["minecraft:regeneration"]
+			"First Aid Supplies Boosted On Effects" = ["minecraft:regeneration", "farmersdelight:comfort"]
 			# How much the First Aid Supplies tick timer is multiplied when boosted. 
 			# A value of 1 would deactivate the speed boost. 0.5 makes the heal twice faster.
 			#Range: 0.1 ~ 1.0

@@ -15,7 +15,7 @@
     "tiltGunKeyCancelsSprint": true,
     "tiltGunKeyTriggersReduceSensitivity": true,
     "cancelInspection": false,
-    "disableBulletCulling": false
+    "disableBulletCulling": true
   },
   "modifiers": {
     "damage": {
