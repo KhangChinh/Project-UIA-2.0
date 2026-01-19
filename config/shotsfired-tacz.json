@@ -1,0 +1,129 @@
+{
+  "TACZ": {
+    "tacz:cz75": {
+      "item": "kubejs:bullet_casing_9mm",
+      "chance": 50.0
+    },
+    "tacz:glock_17": {
+      "item": "kubejs:bullet_casing_9mm",
+      "chance": 60.0
+    },
+    "elitex:op1911": {
+      "item": "kubejs:bullet_casing_9mm",
+      "chance": 70.0
+    },
+    "hamster:nagantcarbine": {
+      "item": "kubejs:bullet_casing_762x39",
+      "chance": 80.0
+    },
+    "hamster:coltm1892": {
+      "item": "kubejs:bullet_casing_762x39",
+      "chance": 80.0
+    },
+    
+    "tacz:uzi": {
+      "item": "kubejs:bullet_casing_9mm",
+      "chance": 50.0
+    },
+    "tacz:vector45": {
+      "item": "kubejs:bullet_casing_45acp",
+      "chance": 50.0
+    },
+    "tacz:hk_mp5a5": {
+      "item": "kubejs:bullet_casing_9mm",
+      "chance": 50.0
+    },
+    "tacz:ump45": {
+      "item": "kubejs:bullet_casing_45acp",
+      "chance": 60.0
+    },
+    "hamster:mp18": {
+      "item": "kubejs:bullet_casing_9mm",
+      "chance": 60.0
+    },
+    "elitex:ro635v3": {
+      "item": "kubejs:bullet_casing_9mm",
+      "chance": 50.0
+    },
+    "tacz:p90": {
+      "item": "kubejs:bullet_casing_57x28",
+      "chance": 50.0
+    },
+
+    "elitex:mcs_spear": {
+      "item": "kubejs:bullet_casing_762x39",
+      "chance": 60.0
+    },
+    "tacz:spr15hb": {
+      "item": "kubejs:bullet_casing_556x45",
+      "chance": 70.0
+    },
+    "tacz:m4a1": {
+      "item": "kubejs:bullet_casing_556x45",
+      "chance": 60.0
+    },
+    "tacz:sks_tactical": {
+      "item": "kubejs:bullet_casing_762x39",
+      "chance": 70.0
+    },
+    "tacz:m16a4": {
+      "item": "kubejs:bullet_casing_556x45",
+      "chance": 60.0
+    },
+    "hamster:gew98": {
+      "item": "kubejs:bullet_casing_762x39",
+      "chance": 80.0
+    },
+    "tacz:type_81": {
+      "item": "kubejs:bullet_casing_762x39",
+      "chance": 60.0
+    },
+    "tacz:m700": {
+      "item": "kubejs:bullet_casing_762x39",
+      "chance": 80.0
+    },
+    "hamster:win1894": {
+      "item": "kubejs:bullet_casing_308",
+      "chance": 75.0
+    },
+    "tacz:mk14": {
+      "item": "kubejs:bullet_casing_308",
+      "chance": 70.0
+    },
+    "tacz:scar_h": {
+      "item": "kubejs:bullet_casing_308",
+      "chance": 70.0
+    },
+    "tacz:springfield1873": {
+      "item": "kubejs:bullet_casing_45-70",
+      "chance": 70.0
+    },
+
+    "tacz:db_long": {
+      "item": "kubejs:bullet_casing_12g",
+      "chance": 75.0
+    },
+    "tacz:aa12": {
+      "item": "kubejs:bullet_casing_12g",
+      "chance": 50.0
+    },
+    "tacz:m870": {
+      "item": "kubejs:bullet_casing_12g",
+      "chance": 65.0
+    },
+    "tacz:spas_12": {
+      "item": "kubejs:bullet_casing_12g",
+      "chance": 65.0
+    },
+    "elitex:benelli_super": {
+      "item": "kubejs:bullet_casing_12g",
+      "chance": 60.0
+    },
+    "tacz:fn_evolys": {
+      "item": "kubejs:bullet_casing_308",
+      "chance": 50.0
+    }
+  }
+
+
+}

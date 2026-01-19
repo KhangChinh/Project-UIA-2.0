@@ -19,10 +19,23 @@ StartupEvents.registry('item', event => {
         .texture('kubejs:item/bullet_casing_556x45') 
         .maxStackSize(64)
 
-    
     event.create('bullet_casing_12g')
         .displayName('12 Gauge Bullet Casing')
         .texture('kubejs:item/bullet_casing_12g') 
         .maxStackSize(64)
 
+    event.create('bullet_casing_57x28')
+        .displayName('5.7x28mm AP Bullet Casing')
+        .texture('kubejs:item/bullet_casing_57x28')
+        .maxStackSize(64)
+
+    event.create('bullet_casing_45-70')
+        .displayName('45-70 Bullet Casing')
+        .texture('kubejs:item/bullet_casing_45-70')
+        .maxStackSize(64)
+
+    event.create('bullet_casing_308')
+        .displayName('.308 Winchester Bullet Casing')
+        .texture('kubejs:item/bullet_casing_308')
+        .maxStackSize(64)
 })

@@ -1,0 +1,46 @@
+#Position of the kill feed on screen
+#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
+hudPosition = "BOTTOM_RIGHT"
+#Maximum number of kill messages to display (1-10)
+#Range: 1 ~ 10
+maxMessages = 5
+#How long each message stays visible in milliseconds
+#Range: 1000 ~ 30000
+messageLifetime = 5000
+#Duration of the fade out animation in milliseconds
+#Range: 100 ~ 2000
+fadeDuration = 500
+#Scale of the text (0.5-2.0)
+#Range: 0.5 ~ 2.0
+textScale = 0.75
+#Show semi-transparent background behind messages
+showBackground = true
+#Show weapon/damage type icon in kill messages
+showWeaponIcon = true
+#Highlight kills involving the local player
+highlightLocalPlayer = true
+#Color for local player name (hex: 0xRRGGBB)
+#Range: 0 ~ 16777215
+localPlayerColor = 16776960
+#Color for enemy names (hex: 0xRRGGBB)
+#Range: 0 ~ 16777215
+enemyColor = 16733525
+#Color for ally/teammate names (hex: 0xRRGGBB)
+#Range: 0 ~ 16777215
+allyColor = 5635925
+#Color for mob names (hex: 0xRRGGBB)
+#Range: 0 ~ 16777215
+mobColor = 11184810
+#Horizontal margin from screen edge
+#Range: 0 ~ 200
+marginX = 10
+#Vertical margin from screen edge
+#Range: 0 ~ 200
+marginY = 13
+#Vertical spacing between messages
+#Range: 0 ~ 20
+spacing = 1
+#What kills to display
+#Allowed Values: ALL, PLAYERS_ONLY, INVOLVING_LOCAL_PLAYER
+displayMode = "ALL"
+
